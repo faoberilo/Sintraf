@@ -45,6 +45,20 @@ a:hover {
     width:100vw;
     min-height: 100vh;
   }
+  .logo{
+    width: 100vw;
+    height: auto;
+  }
+  .buttons{
+    flex-direction: column;
+    height: 50vh; 
+    align-items: center;   
+  }
+  .button{   
+    width: 95vw;
+    height: 15vw;
+    font-size: 6vw;
+  }
 
 
 }
